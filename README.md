@@ -1,3 +1,3 @@
 ﻿#rapchieuphim
  
-[<img src="https://github.com/LouieTran/rapchieuphim/blob/Main/images/0014531.png" width="50%">](https://youtu.be/<VIDEO ID>)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=DZfpr1NCwsE&ab_channel=DuyTr%E1%BA%A7n)
