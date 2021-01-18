@@ -1,3 +1,3 @@
 ﻿#rapchieuphim
  
-[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
+[<img src="https://github.com/LouieTran/rapchieuphim/blob/Main/images/0014531.png" width="50%">](https://youtu.be/<VIDEO ID>)
