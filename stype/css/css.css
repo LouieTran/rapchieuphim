@@ -335,7 +335,7 @@
     background-color: #555;
 }
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 800){
     .footer .footer_info{
         width: 200px;
         height: 120px;
